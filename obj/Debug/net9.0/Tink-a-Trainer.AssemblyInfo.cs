@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tink-a-Trainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab085896953d45e937445e7a8c2f9914b4dc012")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfdb2fdbbff01aef4222bff157538fa36e715982")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tink-a-Trainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tink-a-Trainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

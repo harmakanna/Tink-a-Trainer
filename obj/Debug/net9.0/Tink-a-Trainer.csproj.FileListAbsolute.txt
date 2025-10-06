@@ -72,3 +72,4 @@ C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Avalonia\Reso
 C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Avalonia\resources
 C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.sourcelink.json
 C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-T.89A9878B.Up2Date
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll

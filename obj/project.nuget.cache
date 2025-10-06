@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JIsr4h8njMo=",
+  "dgSpecHash": "G/SyZdEc5IA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Kumatora\\Documents\\GitHub\\Tink-a-Trainer\\Tink-a-Trainer.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\Kumatora\\.nuget\\packages\\avalonia.themes.simple\\11.3.6\\avalonia.themes.simple.11.3.6.nupkg.sha512",
     "C:\\Users\\Kumatora\\.nuget\\packages\\avalonia.win32\\11.3.6\\avalonia.win32.11.3.6.nupkg.sha512",
     "C:\\Users\\Kumatora\\.nuget\\packages\\avalonia.x11\\11.3.6\\avalonia.x11.11.3.6.nupkg.sha512",
+    "C:\\Users\\Kumatora\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\Kumatora\\.nuget\\packages\\harfbuzzsharp\\8.3.1.1\\harfbuzzsharp.8.3.1.1.nupkg.sha512",
     "C:\\Users\\Kumatora\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\8.3.1.1\\harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
     "C:\\Users\\Kumatora\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.1\\harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
