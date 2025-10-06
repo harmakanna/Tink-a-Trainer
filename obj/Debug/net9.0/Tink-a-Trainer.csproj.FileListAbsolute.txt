@@ -1,0 +1,14 @@
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\Tink-a-Trainer.exe
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\Tink-a-Trainer.deps.json
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\Tink-a-Trainer.runtimeconfig.json
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\Tink-a-Trainer.dll
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\bin\Debug\net9.0\Tink-a-Trainer.pdb
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.AssemblyInfoInputs.cache
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.AssemblyInfo.cs
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.dll
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\refint\Tink-a-Trainer.dll
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.pdb
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\Tink-a-Trainer.genruntimeconfig.cache
+C:\Users\Kumatora\Documents\GitHub\Tink-a-Trainer\obj\Debug\net9.0\ref\Tink-a-Trainer.dll
