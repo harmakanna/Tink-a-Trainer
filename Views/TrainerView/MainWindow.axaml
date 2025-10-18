@@ -3,10 +3,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="Tink_a_Trainer.MainWindow"
+        x:Class="Tink_a_Trainer.Views.TrainerView.MainWindow"
         Title="Tink_a_Trainer">
-    <StackPanel Margin="20">
-        <Button Click="TrainerViewMainWindow"> TrainerView </Button>
-        <TextBlock Margin="0 10" x:Name="trainerViewMainWindow">Ready...</TextBlock>
-    </StackPanel>
+    Welcome to the trainer view!
 </Window>
